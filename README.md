@@ -1,6 +1,7 @@
 # rpi-chaoskey
-Compile Raspberry Pi Kernel Module for the Chaoskey USB Random Number Generator
+Compile Raspberry Pi Raspbian Kernel Module for the ChaosKey USB Random Number Generator
 
+https://altusmetrum.org/ChaosKey/
 
 https://www.raspberrypi.org/documentation/linux/kernel/building.md
 
