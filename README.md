@@ -24,4 +24,7 @@ https://www.raspberrypi.org/documentation/linux/kernel/building.md
     root@c627559bce5b:/app# ls
     chaoskey-raspberrypi-kernel_1.20190718-1-rpi3.tgz  linux  make_module.sh  tools
     root@c627559bce5b:/app# scp chaoskey-raspberrypi-kernel_1.20190718-1-rpi3.tgz    user@some.other.server:/tmp
-    
+    root@c627559bce5b:/app# exit
+    $
+    $ docker rm c627559bce5b
+    $  
